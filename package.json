@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "forkify project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack  --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSmith464/Forkify.git"
+  },
+  "author": "Morgan Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSmith464/Forkify/issues"
+  },
+  "homepage": "https://github.com/MSmith464/Forkify#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
